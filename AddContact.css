@@ -1,0 +1,79 @@
+html{
+    font-size: 100%;
+    font-family: "Vazir";
+}
+body{
+direction: rtl;
+}
+#form{
+    direction: rtl;
+    margin-left: 5rem;
+    font-family: "Vazir";
+    width: 50%;
+    border: .1rem solid #FED330FF;
+    border-radius: 2rem;
+    vertical-align: top;
+}
+span{
+    display: block;
+    font-size:2rem;
+    margin: 2rem auto;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+ #form input{
+    width: 90%;
+    padding: .5rem 1rem;
+     margin-top:.2rem;
+     margin-right: 1rem;
+     margin-bottom: 1.2rem;
+     border-radius: 5rem;
+     border-color: #424242;
+font-family: inherit;
+
+}
+#form button{
+width: 70%;
+padding: .2rem ;
+margin-top:2rem;
+margin-right: 6rem;
+margin-bottom: 2.5rem;
+border-radius: 5rem;
+font-family: inherit;
+    font-size: 1.5rem;
+    background-color: #fed330;
+}
+#form button:hover{
+    font-weight: bold;
+}
+
+#form input:hover{
+    background-color: #E1DB9EFF;
+}
+#form label{
+    margin-right: 3rem;
+
+}
+#form label,
+#form input
+{
+    display:block;
+
+}
+
+.img{
+    /*display: inline-block;*/
+    /*margin-right: 13rem;*/
+    /*margin-left: 2rem;*/
+    /*margin-top: 15rem;*/
+    position: absolute;
+    width: 30%;
+    border-radius: 5rem;
+    top:13rem;
+    left:1rem;
+}
+
+
+
