@@ -62,83 +62,31 @@ font-family: Comic;
 }
 
 .contact{
-<<<<<<< HEAD
     height:48px;
-=======
-    height:56px;
->>>>>>> ca74ffd (upload)
 background-color: white;
     border: 1px solid #4f4f4f;
 
 }
-<<<<<<< HEAD
 .contact .name{
     width:calc( 50% - 1rem);
     height:100% ;
-=======
-.contact .img{
-    width: calc(5% - .5rem);
-    height: 100%;
-    vertical-align: top;
-    display: inline-block;
-    left :0;
-    margin-left: .5rem;
-
-}
-.contact .img >img{
-    border-radius: 1.8rem;
-}
-.contact .name,
-.contact .family{
-    width:calc( 12% - .5rem);
-    height:100%  ;
->>>>>>> ca74ffd (upload)
     font-size: 1.5rem;
    vertical-align: top;
     display: inline-block;
     left:0;
-<<<<<<< HEAD
     margin-left: 1rem;
 }
 
 .contact .icon{
     width:50%;
-=======
-    margin-left: .5rem;
-    margin-top:.7rem;
-}
-
-.contact .email,
-.contact .phoneNumber{
-    width:calc( 24% - .5rem);
-    height:100% ;
-    font-size: 1.4rem;
-    vertical-align: top;
-    display: inline-block;
-    left:0;
-    margin-left: .3rem;
-    margin-top:.7rem;
-    text-align: center;
-}
-
-.contact .icon{
-    width:22%;
->>>>>>> ca74ffd (upload)
     height: 100%;
     display: inline-block;
     right:0;
     direction: rtl;
 
-<<<<<<< HEAD
 }
 .contact .icon img{
     margin:.5rem 1rem;
-=======
-
-}
-.contact .icon img{
-    margin:.5rem .3rem;
->>>>>>> ca74ffd (upload)
 }
 .contact .icon img[src="./icon/icons8-call-30.png"]{
 
